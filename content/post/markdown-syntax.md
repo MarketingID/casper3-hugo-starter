@@ -1,148 +1,35 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
+author = ""
+categories = ["themes", "syntax"]
+date = 2022-03-24T06:00:00Z
+description = ""
+feature_image = "/images/internet-marketing-for-lawyers.webp"
+series = ["Themes Guide"]
+tags = []
+title = "Digital Marketing MUSTS for lawyers"
+
 +++
+The internet has transformed the way clients find and choose legal representation. This opens up a door to great advantages for legal marketing, so if you want to ensure that your law firm has success, you need to market it online.
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+The benefits of digital marketing for lawyers are numerous, so as traffic to your site, analytical data with valuable insights about your audience, attract newer clientele and all with a few clicks, this is why it´s a must to know how to get the digital era into your business DNA. But, with so many different tactics to use, here´s three we recomend:
 
-## Headings
+1\. Pay-Per-Click Advertising (PPC)
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+PPC lawyer campaigns allows you to show ads to potencial clients actively searching online for law firms and the best part is that you only pay when your ad is clicked.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+There are three main reasons this can be a great tool for Attorney digital marketing or for any business: intentional targeting, immediacy, and measurability.
 
-## Paragraph
+2\. Search Engine Optimisation (SEO)
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+If you are wondering how do potential clients look for legal services, most of the time they use search engines (like Google, Bing and Yahoo).
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+SEO for lawyers helps your website appear to people when they are looking for legal services like the ones you offer on organic search engine results.
 
-## Blockquotes
+3\. Social Media Marketing (SMM)
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+It’s fast, it’s low cost and it works. Besides helping you reach your audience based on their demographics and interests, you can generate leads, reach a wider target and get awareness for your business.
 
-#### Blockquote without attribution
+To start with this you need a plan so know the rules, identify your goals create great content and start small.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
-
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-1. First Sub-item
-2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
+Without a doubt, digital marketing has many benefits for your firm and dare to take it to the next level with the help of our law marketing agency. Hit here to contact directly with our experts.
