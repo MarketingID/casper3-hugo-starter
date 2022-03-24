@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Steve Francia"
 baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © MKT ID"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
@@ -13,11 +13,6 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 10
-[[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
-weight = 20
 [[menu.main]]
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
