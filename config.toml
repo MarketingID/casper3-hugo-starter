@@ -27,7 +27,7 @@ weight = 40
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
 github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
+logo = "/images/blogdeprueba.PNG"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
@@ -44,9 +44,9 @@ simple = true
 disabled = false
 privacyEnhanced = true
 [services.instagram]
-disableInlineCSS = true
+disableInlineCSS = false
 [services.twitter]
-disableInlineCSS = true
+disableInlineCSS = false
 [taxonomies]
 category = "categories"
 series = "series"
