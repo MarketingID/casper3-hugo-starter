@@ -1,48 +1,28 @@
 +++
 author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
-tags = [
-    "emoji",
-]
-feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
+date = 2022-03-24T06:00:00Z
+description = ""
+feature_image = "/images/previewimage.jpg"
+tags = []
+title = "Get the Digital Marketing Era into your business DNA"
+
 +++
+# Business has changed at an accelerated pace in recent years and the digital era is already with us. The advantages of adapting and including digital strategies to your business are huge.
 
-Emoji can be enabled in a Hugo project in a number of ways. 
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
+The digital era has arrived and businesses must take into account that implementing a digital marketing strategy is essential for their growth in this era, but how to start? Any change at the beginning can be complicated, but here are some of the factors that you can define and make this process a path full of learning.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+• Know how your company works, its objectives and establish processes that all your staff knows and applies.
 
+• Understand your customers' needs and the way they seek information about services or products.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+By understanding this two factors, you have already complete half of the process.
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+You can be really surprised how the digital era is affecting business, in fact, there are many areas that you would never have thought before that would migrate to this type of digital communication.
 
-***
+For example, lawyers, due to the need for their services and the context in which the market is, seek customers through social media offering their services and emphasizing their added value. To this end, they include the Digital Marketing MUSTS for lawyers in their digital strategies.
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+Also, Medical Digital Marketin, why not? In this pandemic we have realized how important it is to be informed about health issues and for this reason doctors have chosen to create strategies in which their added value is to make themselves known about the knowledge they have and thus attract more patients.
 
-{{< highlight html >}}
-.emoji {
-font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}
-{{< /highlight >}}
+These are just some of the areas in which the digital era is penetrating with great intensity and bringing benefits to businesses and brands that dare to opt for this new modality.
 
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-    .nowrap {
-	display: block;
-	margin: 25px 0;
-}
-}
-</style>
-{{< /css.inline >}}
+Our team is more than willing to continue working with you and trace the path in which you can meet more goals in your business. Click here to contact you directly and include the digital marketing era into your business DNA.
